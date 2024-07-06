@@ -12,7 +12,7 @@
 	<artifactId>spring-unitetst-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-unitetst-service</name>
-	<description>Demo project for Spring Boot</description>
+	<description>"Ramakrishnan Added From GIT "Demo project for Spring Boot</description>
 	<properties>
 		<java.version>8</java.version>
 	</properties>
